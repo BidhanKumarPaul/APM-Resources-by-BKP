@@ -82,4 +82,6 @@ window.HOME_LINKS=[["GitHub repository","https://github.com/BidhanKumarPaul/APM-
 window.SOCIAL=[["APM group","https://facebook.com/groups/140642182623607/"],["APM page","https://www.facebook.com/ruappliedmath"],["APM sports","https://www.facebook.com/profile.php?id=61583014736505"]];
 window.TEACHERS_URL="https://profile.ru.ac.bd/public/teachers/243";
 // Students by batch number. Add people like: 24:[{name:"Full Name",handle:"https://facebook.com/..."}]
-window.BATCHES={};
+window.BATCHES={
+  24:[{name:"Bidhan Kumar Pal",handle:"https://www.facebook.com/share/1EvQ5ixkCx/"}]
+};
