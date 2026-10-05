@@ -83,8 +83,7 @@ window.SOCIAL=[["APM group","https://facebook.com/groups/140642182623607/"],["AP
 window.TEACHERS_URL="https://profile.ru.ac.bd/public/teachers/243";
 // Students by batch number. Add people like: 24:[{name:"Full Name",handle:"https://facebook.com/..."}]
 window.BATCHES={
-  24:[{name:"Bidhan Kumar Pal",handle:"https://www.facebook.com/share/1EvQ5ixkCx/"}]
-    
+  24:[{name:"Bidhan Kumar Pal",handle:"https://www.facebook.com/share/1EvQ5ixkCx/"}],
   23:[
     {name:"Masqura Akter",handle:"https://www.facebook.com/masqura.akter.2024"},
     {name:"Nusrat Jahan Nabia",handle:"https://www.facebook.com/profile.php?id=61577750711146"},
@@ -157,8 +156,7 @@ window.BATCHES={
     {name:"Nayemul Islam Koushik",handle:"https://www.facebook.com/profile.php?id=61584069928362"},
     {name:"Monir Ullah",handle:"https://www.facebook.com/monir.ullah.308703"},
     {name:"Junaid Masud",handle:"https://web.facebook.com/profile.php?id=61588941813641"}
-  ]
-
+  ],
   22:[
     {name:"Mohi Uddin",handle:"https://www.facebook.com/share/16ddcD3PAV/"},
     {name:"Md. Shahjahan Mia",handle:"https://www.facebook.com/share/1DcPJ11T3D/"},
